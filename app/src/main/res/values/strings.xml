@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Add_Hospitals</string>
+    <string name="dname" />
+    <string name="dspecial" />
+    <string name="docname" />
+    <string name="docspecial" />
+    <string name="button">Add</string>
+</resources>
